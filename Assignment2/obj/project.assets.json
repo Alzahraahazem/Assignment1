@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\AssimentsSolution\\Assiment1\\Assignment1.csproj",
-      "projectName": "Assignment1",
-      "projectPath": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\AssimentsSolution\\Assiment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\AssimentsSolution\\Assiment1\\Assignment2.csproj",
+      "projectName": "Assignment2",
+      "projectPath": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\AssimentsSolution\\Assiment1\\Assignment2.csproj",
       "packagesPath": "C:\\Users\\ascom\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\AssimentsSolution\\Assiment1\\obj\\",
       "projectStyle": "PackageReference",

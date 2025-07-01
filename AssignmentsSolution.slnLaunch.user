@@ -3,7 +3,7 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "Assiment1\\Assignment1.csproj",
+        "Path": "Assiment1\\Assignment2.csproj",
         "Action": "Start"
       },
       {
